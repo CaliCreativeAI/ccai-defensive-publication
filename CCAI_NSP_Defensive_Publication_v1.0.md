@@ -6,7 +6,8 @@
 **Internal Asset Tag:** `did:key:z6MkhaXij89-NICKERSON-CCAI-8829`  
 **Document Version:** 1.0  
 **License:** CC0 1.0 Universal — Public Domain Dedication  
-**Repository:** [github.com/warrennickerson/ccai-defensive-pub] *(placeholder — update before push)*
+**Repository:** https://github.com/CaliCreativeAI/ccai-defensive-publication
+
 
 ---
 
@@ -183,7 +184,8 @@ This publication describes an **architectural framework**. It does not constitut
 
 ### Contact
 For licensing inquiries, co-founder discussions, or verification requests:  
-**Email:** [warren.nickerson.ccai@protonmail.com] *(placeholder — update before push)*  
+**Email:** warren.nickerson.ccai@protonmail.com
+
 **Subject Line:** CCAI — [Licensing / Co-Founder / Verification]
 
 **All substantive discussions require a signed NDA before disclosure of implementation details, trade secrets, or the specific financial vulnerability discovery documented in Section 5.**
